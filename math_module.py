@@ -12,6 +12,8 @@ def check_division(a, b):
 def my_sum(a, b):
     try:
         c = a + b
-        return 'c'
+        return c
     except TypeError:
         return "Wrong argument."
+
+
