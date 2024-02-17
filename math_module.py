@@ -15,3 +15,4 @@ def my_sum(a, b):
 def my_sub(a, b):
     res = int(a) - int(b)
     return math.ceil(res)
+
