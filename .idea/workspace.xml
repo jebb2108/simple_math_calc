@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="796c3d5e-6046-446a-a433-73afcf153744" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/math_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2cUUvh8MskMhPNOM0X0fTus9mmH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,8 +29,8 @@
     "Python.math_module.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Rebasing iss60",
-    "last_opened_file_path": "/Users/jebb/Desktop/repo_experimental"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jebb/Desktop/repo_experimental/dev1/simple_math_calc"
   }
 }]]></component>
   <component name="SharedIndexes">
