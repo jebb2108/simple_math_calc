@@ -1,6 +1,6 @@
 from math import *
 
-def check_division(a, b):
+def my_div(a, b):
     try:
         res = a / b
         return int(res)
@@ -11,8 +11,8 @@ def check_division(a, b):
 
 def my_sum(a, b):
     try:
-        c = a + b
-        return c
+        res = a + b
+        return res
     except TypeError:
         return "Wrong argument."
 
