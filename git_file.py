@@ -1,1 +1,1 @@
-print("Hello Wworld!")
+from math_module import *
