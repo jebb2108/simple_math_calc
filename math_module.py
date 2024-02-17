@@ -15,3 +15,10 @@ def my_sum(a, b):
         return 'c'
     except TypeError:
         return "Wrong argument."
+
+def my_sub(a, b):
+    try:
+        res = a - b
+        return res
+    except TypeError:
+        print('Wrong argument.')
