@@ -1,6 +1,6 @@
-from math_module import *
+from math_module import check_division, my_sum
 
-print(my_sum(2, 3))
+print(check_division(4, 2))
 
-if __name__ == __main__:
+if __name__ == '__main__':
     print('All is  working fine.')
