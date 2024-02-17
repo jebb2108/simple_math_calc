@@ -2,8 +2,8 @@ from math import *
 
 def my_div(a, b):
     try:
-        res = a / b
-        return int(res)
+        res = int(a) / int(b)
+        return round(res, 2)
     except ZeroDivisionError:
         return "You can`t divide by zero!"
     except TypeError:
@@ -11,14 +11,14 @@ def my_div(a, b):
 
 def my_sum(a, b):
     try:
-        res = a + b
-        return res
+        res = int(a) + int(b)
+        return int(res)
     except TypeError:
         return "Wrong argument."
 
 def my_sub(a, b):
     try:
-        res = a - b
-        return res
+        res = int(a) - int(b)
+        return int(res)
     except TypeError:
         print('Wrong argument.')
